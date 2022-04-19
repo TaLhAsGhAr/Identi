@@ -29,6 +29,7 @@
   width: 100%;
   background: orangered;
   color: #fff;
+  z-index: 1;
 }
 
 .navbar-container {
@@ -248,7 +249,9 @@
         font-size: 2.3rem;
         font-weight: 600;
         padding-top: 1rem;
+        
     } 
+  
     #btn1 {
         list-style: none;
         font-size: 1rem;
